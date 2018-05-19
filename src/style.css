@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  padding: 1em;
+  text-align: center;
+}
+
+textarea {
+  resize: vertical;
+  height: 100%;
+  margin: 1em 0 !important;
+}

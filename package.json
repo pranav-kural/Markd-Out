@@ -1,0 +1,20 @@
+{
+  "name": "markd-out",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/markd-out",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "path": "0.12.7",
+    "react-markdown": "3.3.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
